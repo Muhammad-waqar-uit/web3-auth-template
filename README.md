@@ -38,3 +38,16 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## About
 Proof2work provides free tutorials to build stuffs in the web3 and blockchain world. Check our tutorials on [our blog](https://www.proof2work.com/).
 
+### env file 
+
+```
+NEXT_PUBLIC_WEB3AUTH_API_KEY // get from web3 ath website 
+
+NEXT_PUBLIC_SEPOLIA_TX_EXPLORER // chain url can be found on transation or explorer
+
+NEXT_PUBLIC_SEPOLIA_ADDRESS_EXPLORER // chain url can be found on transation or explorer
+
+NEXT_PUBLIC_BICONOMY_PAYMASTER_API_KEY // can get from biconomy url
+ 
+NEXT_PUBLIC_BICONOMY_BUNDLER_URL // same from biconomy
+```
